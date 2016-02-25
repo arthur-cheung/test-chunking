@@ -1,0 +1,22 @@
+{
+  "name": "test-chunking",
+  "version": "1.0.0",
+  "description": "To test chunking in request library",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthur-cheung/test-chunking.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arthur-cheung/test-chunking/issues"
+  },
+  "homepage": "https://github.com/arthur-cheung/test-chunking#readme",
+  "dependencies": {
+    "request": "^2.69.0"
+  }
+}
