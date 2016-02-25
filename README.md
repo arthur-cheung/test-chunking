@@ -1,3 +1,3 @@
 # test-chunking
-`npm i`
-`node app.js`
+1. `npm i`
+1. `node app.js`
